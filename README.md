@@ -1,12 +1,12 @@
 # gulosity-easy
 
-> 代码生成器
+>简易的markdowm编辑器
 
 #### Build Setup
 
 ``` bash
 # install dependencies
-npm install
+npm install  
 
 # serve with hot reload at localhost:9080
 npm run dev
